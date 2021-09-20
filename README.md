@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rskhan167
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learning .NET, NestJs, Typescript, AWS, etc.
+- 🌱 I’m currently learning NestJs, Typescript, ReactJs, AWS, etc.
 - 💞️ I’m looking to collaborate on Backend/Frontend Projects.
 - 📫 Reach me at rs.khan167@gmail.com
 
