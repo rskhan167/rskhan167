@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rskhan167
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning NestJs, Typescript, ReactJs, AWS, etc.
-- 👨‍💻 Love open source, currently Maintaining https://github.com/javascript-tutorial/hi.javascript.info open source repository. 
+- 👨‍💻 Love open source, currently maintaining https://github.com/javascript-tutorial/hi.javascript.info open source repository. 
 - ✍ Read my blogs here https://dev.to/rasoolk16 I write about backend. Mostly about NestJs.
 - 💞️ I’m looking to collaborate on Backend/Frontend Projects.
 - 📫 Reach me at rs.khan167@gmail.com
